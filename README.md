@@ -151,8 +151,7 @@ NetworkGroupChat/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/d4t4tect
-/NetworkGroupChat.git
+git clone https://github.com/d4t4tect/NetworkGroupChat.git
 cd NetworkGroupChat
 ```
 
